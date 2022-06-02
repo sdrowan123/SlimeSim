@@ -1,6 +1,7 @@
 # Slime Simulation in WebGL for THREEJS
 
-![Slime Image](https://user-images.githubusercontent.com/98781207/171663801-346395e7-1fd1-4263-a818-4f4b00fb203a.PNG)
+![Slime Image](https://user-images.githubusercontent.com/98781207/171664003-369de4c5-b01b-4fc6-856a-80fb13e3e4ec.PNG)
+
 
 Inspired by [Coding Adventure: Ant and Slime Simulations](https://www.youtube.com/watch?v=X-iSQQgOd1A) by Sebastian Lague. The idea was to take his approach and build shaders for WebGL with bumpmap support. Eventually I would like to expand this bumpmap support to all images and be able to build an entire webpage which can morph between pages with the shader!
 
